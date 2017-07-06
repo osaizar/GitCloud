@@ -1,0 +1,15 @@
+{
+  "name": "tddd272016_gitcloud",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Oier Saizar"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

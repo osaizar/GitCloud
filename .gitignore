@@ -1,0 +1,9 @@
+node_modules/
+output/*
+project/database.db
+database.db
+npm-debug.log
+*.pyc
+project/static/js/client.js
+project/static/bower_components
+gitserver/
